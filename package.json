@@ -1,0 +1,55 @@
+{
+  "name": "sarb-exchange-rate",
+  "version": "1.0.1",
+  "description": "Official South African Reserve Bank (South Africa) daily exchange rates — 23 currencies vs ZAR, history since 2000. Zero-dependency Node.js/TypeScript client.",
+  "keywords": [
+    "sarb",
+    "south",
+    "african",
+    "reserve",
+    "bank",
+    "exchange-rate",
+    "exchange-rates",
+    "currency",
+    "forex",
+    "fx",
+    "zar",
+    "central-bank",
+    "official-rates",
+    "south-africa",
+    "api",
+    "typescript"
+  ],
+  "homepage": "https://allratestoday.com/central-bank-rates-api/sarb/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRates-Today/sarb-exchange-rate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllRates-Today/sarb-exchange-rate/issues"
+  },
+  "license": "MIT",
+  "author": "AllRatesToday <hello@allratestoday.com> (https://allratestoday.com)",
+  "type": "module",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
+  "files": [
+    "index.mjs",
+    "index.cjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
