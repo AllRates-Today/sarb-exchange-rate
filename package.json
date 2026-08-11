@@ -1,6 +1,6 @@
 {
   "name": "sarb-exchange-rate",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Official South African Reserve Bank (South Africa) daily exchange rates — 23 currencies vs ZAR, history since 2000. Zero-dependency Node.js/TypeScript client.",
   "keywords": [
     "sarb",
