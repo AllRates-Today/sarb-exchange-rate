@@ -42,33 +42,33 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-15** by South African Reserve Bank — 23 rates. Updated 2026-10-15.
+Published **2026-10-16** by South African Reserve Bank — 23 rates. Updated 2026-10-16.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.5618 |
-| GBP | ZAR | reference | 21.9308 |
-| USD | ZAR | reference | 16.531 |
-| ZAR | AUD | reference | 0.0873 |
-| ZAR | BRL | reference | 0.3054 |
-| ZAR | BWP | reference | 0.8611 |
-| ZAR | CAD | reference | 0.0859 |
-| ZAR | CHF | reference | 0.0501 |
-| ZAR | CNY | reference | 0.4048 |
-| ZAR | DKK | reference | 0.4027 |
-| ZAR | HKD | reference | 0.4747 |
-| ZAR | ILS | reference | 0.1875 |
-| ZAR | INR | reference | 5.7445 |
-| ZAR | JPY | reference | 9.5421 |
-| ZAR | KES | reference | 7.8519 |
-| ZAR | KRW | reference | 81.2504 |
-| ZAR | MWK | reference | 104.8739 |
-| ZAR | NOK | reference | 0.5758 |
-| ZAR | NZD | reference | 0.1077 |
-| ZAR | SEK | reference | 0.6028 |
-| ZAR | THB | reference | 2.0262 |
-| ZAR | TWD | reference | 1.9596 |
-| ZAR | ZMW | reference | 1.2023 |
+| EUR | ZAR | reference | 18.4721 |
+| GBP | ZAR | reference | 21.8855 |
+| USD | ZAR | reference | 16.4262 |
+| ZAR | AUD | reference | 0.0875 |
+| ZAR | BRL | reference | 0.3104 |
+| ZAR | BWP | reference | 0.8317 |
+| ZAR | CAD | reference | 0.0862 |
+| ZAR | CHF | reference | 0.0502 |
+| ZAR | CNY | reference | 0.4071 |
+| ZAR | DKK | reference | 0.4047 |
+| ZAR | HKD | reference | 0.4778 |
+| ZAR | ILS | reference | 0.1883 |
+| ZAR | INR | reference | 5.7828 |
+| ZAR | JPY | reference | 9.6148 |
+| ZAR | KES | reference | 7.9081 |
+| ZAR | KRW | reference | 81.0794 |
+| ZAR | MWK | reference | 105.5634 |
+| ZAR | NOK | reference | 0.575 |
+| ZAR | NZD | reference | 0.1074 |
+| ZAR | SEK | reference | 0.6027 |
+| ZAR | THB | reference | 2.0333 |
+| ZAR | TWD | reference | 1.9707 |
+| ZAR | ZMW | reference | 1.2148 |
 
 Source: [Official rates published by SARB, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/sarb/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
