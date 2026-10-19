@@ -33,42 +33,45 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/sarb').th
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
 
 ## 📈 Latest published table
 
 [![Latest South African Reserve Bank table](https://allratestoday.com/api/open/central-bank/sarb/table.svg)](https://allratestoday.com/central-bank-rates-api/sarb/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-16** by South African Reserve Bank — 23 rates. Updated 2026-10-16.
+<details>
+<summary>Table as text: published 2026-10-19 by South African Reserve Bank — 23 rates. Updated 2026-10-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.4721 |
-| GBP | ZAR | reference | 21.8855 |
-| USD | ZAR | reference | 16.4262 |
-| ZAR | AUD | reference | 0.0875 |
-| ZAR | BRL | reference | 0.3104 |
-| ZAR | BWP | reference | 0.8317 |
-| ZAR | CAD | reference | 0.0862 |
-| ZAR | CHF | reference | 0.0502 |
-| ZAR | CNY | reference | 0.4071 |
-| ZAR | DKK | reference | 0.4047 |
-| ZAR | HKD | reference | 0.4778 |
-| ZAR | ILS | reference | 0.1883 |
-| ZAR | INR | reference | 5.7828 |
-| ZAR | JPY | reference | 9.6148 |
-| ZAR | KES | reference | 7.9081 |
-| ZAR | KRW | reference | 81.0794 |
-| ZAR | MWK | reference | 105.5634 |
-| ZAR | NOK | reference | 0.575 |
-| ZAR | NZD | reference | 0.1074 |
-| ZAR | SEK | reference | 0.6027 |
-| ZAR | THB | reference | 2.0333 |
-| ZAR | TWD | reference | 1.9707 |
-| ZAR | ZMW | reference | 1.2148 |
+| EUR | ZAR | reference | 18.4505 |
+| GBP | ZAR | reference | 21.9216 |
+| USD | ZAR | reference | 16.4626 |
+| ZAR | AUD | reference | 0.0871 |
+| ZAR | BRL | reference | 0.3077 |
+| ZAR | BWP | reference | 0.8315 |
+| ZAR | CAD | reference | 0.0856 |
+| ZAR | CHF | reference | 0.0501 |
+| ZAR | CNY | reference | 0.4059 |
+| ZAR | DKK | reference | 0.4051 |
+| ZAR | HKD | reference | 0.4767 |
+| ZAR | ILS | reference | 0.1888 |
+| ZAR | INR | reference | 5.7667 |
+| ZAR | JPY | reference | 9.606 |
+| ZAR | KES | reference | 7.8906 |
+| ZAR | KRW | reference | 80.8233 |
+| ZAR | MWK | reference | 105.3304 |
+| ZAR | NOK | reference | 0.5725 |
+| ZAR | NZD | reference | 0.1073 |
+| ZAR | SEK | reference | 0.6026 |
+| ZAR | THB | reference | 2.0404 |
+| ZAR | TWD | reference | 1.973 |
+| ZAR | ZMW | reference | 1.2134 |
+
+</details>
 
 Source: [Official rates published by SARB, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/sarb/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -341,7 +344,8 @@ Need the whole archive rather than an API call? The same published tables are mi
 - [All central bank sources](https://allratestoday.com/central-bank-rates-api/)
 - [Package docs on the site](https://allratestoday.com/docs/sdk/sarb-exchange-rate/) · [ERP integration guides](https://allratestoday.com/docs/integrations/)
 - [API documentation](https://allratestoday.com/docs/#central-bank) · [Interactive reference](https://allratestoday.com/api-reference/) · [Methodology](https://allratestoday.com/official-rates-methodology/)
-- [Register (free)](https://allratestoday.com/register) · [Pricing](https://allratestoday.com/pricing/)
+- [Register (Free)](https://allratestoday.com/register) · [Dashboard](https://allratestoday.com/profile) · [Pricing](https://allratestoday.com/pricing/)
+- [Status](https://allratestoday.com/status)
 - [GitHub](https://github.com/AllRates-Today/sarb-exchange-rate)
 
 ## 📜 License
