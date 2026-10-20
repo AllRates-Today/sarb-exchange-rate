@@ -43,33 +43,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by South African Reserve Bank — 23 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by South African Reserve Bank — 23 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.4505 |
-| GBP | ZAR | reference | 21.9216 |
-| USD | ZAR | reference | 16.4626 |
+| EUR | ZAR | reference | 18.4303 |
+| GBP | ZAR | reference | 21.9057 |
+| USD | ZAR | reference | 16.4088 |
 | ZAR | AUD | reference | 0.0871 |
-| ZAR | BRL | reference | 0.3077 |
-| ZAR | BWP | reference | 0.8315 |
-| ZAR | CAD | reference | 0.0856 |
-| ZAR | CHF | reference | 0.0501 |
-| ZAR | CNY | reference | 0.4059 |
-| ZAR | DKK | reference | 0.4051 |
-| ZAR | HKD | reference | 0.4767 |
+| ZAR | BRL | reference | 0.3069 |
+| ZAR | BWP | reference | 0.8326 |
+| ZAR | CAD | reference | 0.0857 |
+| ZAR | CHF | reference | 0.0503 |
+| ZAR | CNY | reference | 0.407 |
+| ZAR | DKK | reference | 0.4056 |
+| ZAR | HKD | reference | 0.4783 |
 | ZAR | ILS | reference | 0.1888 |
-| ZAR | INR | reference | 5.7667 |
-| ZAR | JPY | reference | 9.606 |
-| ZAR | KES | reference | 7.8906 |
-| ZAR | KRW | reference | 80.8233 |
-| ZAR | MWK | reference | 105.3304 |
-| ZAR | NOK | reference | 0.5725 |
-| ZAR | NZD | reference | 0.1073 |
-| ZAR | SEK | reference | 0.6026 |
-| ZAR | THB | reference | 2.0404 |
-| ZAR | TWD | reference | 1.973 |
-| ZAR | ZMW | reference | 1.2134 |
+| ZAR | INR | reference | 5.7853 |
+| ZAR | JPY | reference | 9.6418 |
+| ZAR | KES | reference | 7.9165 |
+| ZAR | KRW | reference | 80.8004 |
+| ZAR | MWK | reference | 105.6758 |
+| ZAR | NOK | reference | 0.5723 |
+| ZAR | NZD | reference | 0.1072 |
+| ZAR | SEK | reference | 0.6031 |
+| ZAR | THB | reference | 2.0486 |
+| ZAR | TWD | reference | 1.9891 |
+| ZAR | ZMW | reference | 1.2204 |
 
 </details>
 
