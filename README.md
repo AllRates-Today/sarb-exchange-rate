@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-21 by South African Reserve Bank — 23 rates. Updated 2026-10-21.</summary>
+<summary>Table as text: published 2026-10-22 by South African Reserve Bank — 23 rates. Updated 2026-10-22.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.4128 |
-| GBP | ZAR | reference | 21.9753 |
-| USD | ZAR | reference | 16.4092 |
-| ZAR | AUD | reference | 0.0867 |
-| ZAR | BRL | reference | 0.3064 |
-| ZAR | BWP | reference | 0.8325 |
-| ZAR | CAD | reference | 0.0856 |
-| ZAR | CHF | reference | 0.0503 |
-| ZAR | CNY | reference | 0.407 |
-| ZAR | DKK | reference | 0.4059 |
-| ZAR | HKD | reference | 0.4782 |
+| EUR | ZAR | reference | 18.511 |
+| GBP | ZAR | reference | 22.0905 |
+| USD | ZAR | reference | 16.4688 |
+| ZAR | AUD | reference | 0.0865 |
+| ZAR | BRL | reference | 0.3051 |
+| ZAR | BWP | reference | 0.8295 |
+| ZAR | CAD | reference | 0.0851 |
+| ZAR | CHF | reference | 0.0498 |
+| ZAR | CNY | reference | 0.4052 |
+| ZAR | DKK | reference | 0.4038 |
+| ZAR | HKD | reference | 0.4762 |
 | ZAR | ILS | reference | 0.1883 |
-| ZAR | INR | reference | 5.7666 |
-| ZAR | JPY | reference | 9.6382 |
-| ZAR | KES | reference | 7.9193 |
-| ZAR | KRW | reference | 80.7064 |
-| ZAR | MWK | reference | 105.6728 |
-| ZAR | NOK | reference | 0.572 |
-| ZAR | NZD | reference | 0.1071 |
-| ZAR | SEK | reference | 0.6037 |
-| ZAR | THB | reference | 2.0492 |
-| ZAR | TWD | reference | 1.9746 |
-| ZAR | ZMW | reference | 1.2203 |
+| ZAR | INR | reference | 5.7571 |
+| ZAR | JPY | reference | 9.5389 |
+| ZAR | KES | reference | 7.8876 |
+| ZAR | KRW | reference | 80.24 |
+| ZAR | MWK | reference | 105.2903 |
+| ZAR | NOK | reference | 0.568 |
+| ZAR | NZD | reference | 0.1067 |
+| ZAR | SEK | reference | 0.6008 |
+| ZAR | THB | reference | 2.0454 |
+| ZAR | TWD | reference | 1.9751 |
+| ZAR | ZMW | reference | 1.2181 |
 
 </details>
 
