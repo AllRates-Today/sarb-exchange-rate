@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-22 by South African Reserve Bank — 23 rates. Updated 2026-10-22.</summary>
+<summary>Table as text: published 2026-10-23 by South African Reserve Bank — 23 rates. Updated 2026-10-23.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.511 |
-| GBP | ZAR | reference | 22.0905 |
-| USD | ZAR | reference | 16.4688 |
-| ZAR | AUD | reference | 0.0865 |
+| EUR | ZAR | reference | 18.5488 |
+| GBP | ZAR | reference | 22.1712 |
+| USD | ZAR | reference | 16.563 |
+| ZAR | AUD | reference | 0.086 |
 | ZAR | BRL | reference | 0.3051 |
-| ZAR | BWP | reference | 0.8295 |
-| ZAR | CAD | reference | 0.0851 |
-| ZAR | CHF | reference | 0.0498 |
-| ZAR | CNY | reference | 0.4052 |
-| ZAR | DKK | reference | 0.4038 |
-| ZAR | HKD | reference | 0.4762 |
-| ZAR | ILS | reference | 0.1883 |
-| ZAR | INR | reference | 5.7571 |
-| ZAR | JPY | reference | 9.5389 |
-| ZAR | KES | reference | 7.8876 |
-| ZAR | KRW | reference | 80.24 |
-| ZAR | MWK | reference | 105.2903 |
-| ZAR | NOK | reference | 0.568 |
-| ZAR | NZD | reference | 0.1067 |
-| ZAR | SEK | reference | 0.6008 |
-| ZAR | THB | reference | 2.0454 |
-| ZAR | TWD | reference | 1.9751 |
-| ZAR | ZMW | reference | 1.2181 |
+| ZAR | BWP | reference | 0.8288 |
+| ZAR | CAD | reference | 0.0846 |
+| ZAR | CHF | reference | 0.0497 |
+| ZAR | CNY | reference | 0.4028 |
+| ZAR | DKK | reference | 0.403 |
+| ZAR | HKD | reference | 0.4734 |
+| ZAR | ILS | reference | 0.1877 |
+| ZAR | INR | reference | 5.7328 |
+| ZAR | JPY | reference | 9.4678 |
+| ZAR | KES | reference | 7.8368 |
+| ZAR | KRW | reference | 80.0805 |
+| ZAR | MWK | reference | 104.6921 |
+| ZAR | NOK | reference | 0.5645 |
+| ZAR | NZD | reference | 0.1061 |
+| ZAR | SEK | reference | 0.5994 |
+| ZAR | THB | reference | 2.0374 |
+| ZAR | TWD | reference | 1.9665 |
+| ZAR | ZMW | reference | 1.2137 |
 
 </details>
 
