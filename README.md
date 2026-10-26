@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-23 by South African Reserve Bank — 23 rates. Updated 2026-10-23.</summary>
+<summary>Table as text: published 2026-10-26 by South African Reserve Bank — 23 rates. Updated 2026-10-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.5488 |
-| GBP | ZAR | reference | 22.1712 |
-| USD | ZAR | reference | 16.563 |
-| ZAR | AUD | reference | 0.086 |
-| ZAR | BRL | reference | 0.3051 |
-| ZAR | BWP | reference | 0.8288 |
-| ZAR | CAD | reference | 0.0846 |
+| EUR | ZAR | reference | 18.6231 |
+| GBP | ZAR | reference | 22.1935 |
+| USD | ZAR | reference | 16.6181 |
+| ZAR | AUD | reference | 0.0856 |
+| ZAR | BRL | reference | 0.2988 |
+| ZAR | BWP | reference | 0.8272 |
+| ZAR | CAD | reference | 0.0843 |
 | ZAR | CHF | reference | 0.0497 |
-| ZAR | CNY | reference | 0.4028 |
-| ZAR | DKK | reference | 0.403 |
-| ZAR | HKD | reference | 0.4734 |
-| ZAR | ILS | reference | 0.1877 |
-| ZAR | INR | reference | 5.7328 |
-| ZAR | JPY | reference | 9.4678 |
-| ZAR | KES | reference | 7.8368 |
-| ZAR | KRW | reference | 80.0805 |
-| ZAR | MWK | reference | 104.6921 |
-| ZAR | NOK | reference | 0.5645 |
-| ZAR | NZD | reference | 0.1061 |
-| ZAR | SEK | reference | 0.5994 |
-| ZAR | THB | reference | 2.0374 |
-| ZAR | TWD | reference | 1.9665 |
-| ZAR | ZMW | reference | 1.2137 |
+| ZAR | CNY | reference | 0.4013 |
+| ZAR | DKK | reference | 0.4013 |
+| ZAR | HKD | reference | 0.472 |
+| ZAR | ILS | reference | 0.1873 |
+| ZAR | INR | reference | 5.7312 |
+| ZAR | JPY | reference | 9.4571 |
+| ZAR | KES | reference | 7.8107 |
+| ZAR | KRW | reference | 79.7171 |
+| ZAR | MWK | reference | 104.3444 |
+| ZAR | NOK | reference | 0.5618 |
+| ZAR | NZD | reference | 0.1058 |
+| ZAR | SEK | reference | 0.598 |
+| ZAR | THB | reference | 2.0348 |
+| ZAR | TWD | reference | 1.9616 |
+| ZAR | ZMW | reference | 1.2119 |
 
 </details>
 
