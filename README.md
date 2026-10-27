@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-26 by South African Reserve Bank — 23 rates. Updated 2026-10-26.</summary>
+<summary>Table as text: published 2026-10-27 by South African Reserve Bank — 23 rates. Updated 2026-10-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.6231 |
-| GBP | ZAR | reference | 22.1935 |
-| USD | ZAR | reference | 16.6181 |
-| ZAR | AUD | reference | 0.0856 |
-| ZAR | BRL | reference | 0.2988 |
-| ZAR | BWP | reference | 0.8272 |
-| ZAR | CAD | reference | 0.0843 |
+| EUR | ZAR | reference | 18.608 |
+| GBP | ZAR | reference | 22.2246 |
+| USD | ZAR | reference | 16.6783 |
+| ZAR | AUD | reference | 0.0854 |
+| ZAR | BRL | reference | 0.3221 |
+| ZAR | BWP | reference | 0.827 |
+| ZAR | CAD | reference | 0.0841 |
 | ZAR | CHF | reference | 0.0497 |
-| ZAR | CNY | reference | 0.4013 |
-| ZAR | DKK | reference | 0.4013 |
-| ZAR | HKD | reference | 0.472 |
-| ZAR | ILS | reference | 0.1873 |
-| ZAR | INR | reference | 5.7312 |
-| ZAR | JPY | reference | 9.4571 |
-| ZAR | KES | reference | 7.8107 |
-| ZAR | KRW | reference | 79.7171 |
-| ZAR | MWK | reference | 104.3444 |
-| ZAR | NOK | reference | 0.5618 |
-| ZAR | NZD | reference | 0.1058 |
-| ZAR | SEK | reference | 0.598 |
-| ZAR | THB | reference | 2.0348 |
-| ZAR | TWD | reference | 1.9616 |
-| ZAR | ZMW | reference | 1.2119 |
+| ZAR | CNY | reference | 0.3998 |
+| ZAR | DKK | reference | 0.4017 |
+| ZAR | HKD | reference | 0.4703 |
+| ZAR | ILS | reference | 0.1846 |
+| ZAR | INR | reference | 5.7056 |
+| ZAR | JPY | reference | 9.4581 |
+| ZAR | KES | reference | 7.7916 |
+| ZAR | KRW | reference | 79.5124 |
+| ZAR | MWK | reference | 103.9681 |
+| ZAR | NOK | reference | 0.5581 |
+| ZAR | NZD | reference | 0.1054 |
+| ZAR | SEK | reference | 0.5972 |
+| ZAR | THB | reference | 2.0245 |
+| ZAR | TWD | reference | 1.9473 |
+| ZAR | ZMW | reference | 1.2082 |
 
 </details>
 
