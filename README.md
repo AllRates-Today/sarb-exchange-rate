@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-27 by South African Reserve Bank — 23 rates. Updated 2026-10-27.</summary>
+<summary>Table as text: published 2026-10-28 by South African Reserve Bank — 23 rates. Updated 2026-10-28.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.608 |
-| GBP | ZAR | reference | 22.2246 |
-| USD | ZAR | reference | 16.6783 |
+| EUR | ZAR | reference | 18.5231 |
+| GBP | ZAR | reference | 22.1333 |
+| USD | ZAR | reference | 16.6485 |
 | ZAR | AUD | reference | 0.0854 |
-| ZAR | BRL | reference | 0.3221 |
-| ZAR | BWP | reference | 0.827 |
-| ZAR | CAD | reference | 0.0841 |
-| ZAR | CHF | reference | 0.0497 |
-| ZAR | CNY | reference | 0.3998 |
-| ZAR | DKK | reference | 0.4017 |
-| ZAR | HKD | reference | 0.4703 |
-| ZAR | ILS | reference | 0.1846 |
-| ZAR | INR | reference | 5.7056 |
-| ZAR | JPY | reference | 9.4581 |
-| ZAR | KES | reference | 7.7916 |
-| ZAR | KRW | reference | 79.5124 |
-| ZAR | MWK | reference | 103.9681 |
-| ZAR | NOK | reference | 0.5581 |
-| ZAR | NZD | reference | 0.1054 |
-| ZAR | SEK | reference | 0.5972 |
-| ZAR | THB | reference | 2.0245 |
-| ZAR | TWD | reference | 1.9473 |
-| ZAR | ZMW | reference | 1.2082 |
+| ZAR | BRL | reference | 0.3215 |
+| ZAR | BWP | reference | 0.8285 |
+| ZAR | CAD | reference | 0.0844 |
+| ZAR | CHF | reference | 0.0499 |
+| ZAR | CNY | reference | 0.4005 |
+| ZAR | DKK | reference | 0.4035 |
+| ZAR | HKD | reference | 0.4712 |
+| ZAR | ILS | reference | 0.1853 |
+| ZAR | INR | reference | 5.7178 |
+| ZAR | JPY | reference | 9.4732 |
+| ZAR | KES | reference | 7.7995 |
+| ZAR | KRW | reference | 80.4463 |
+| ZAR | MWK | reference | 104.1542 |
+| ZAR | NOK | reference | 0.5607 |
+| ZAR | NZD | reference | 0.107 |
+| ZAR | SEK | reference | 0.5977 |
+| ZAR | THB | reference | 2.0281 |
+| ZAR | TWD | reference | 1.948 |
+| ZAR | ZMW | reference | 1.2126 |
 
 </details>
 
