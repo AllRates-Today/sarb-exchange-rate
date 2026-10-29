@@ -47,33 +47,33 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-28 by South African Reserve Bank — 23 rates. Updated 2026-10-28.</summary>
+<summary>Table as text: published 2026-10-29 by South African Reserve Bank — 23 rates. Updated 2026-10-29.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.5231 |
-| GBP | ZAR | reference | 22.1333 |
-| USD | ZAR | reference | 16.6485 |
-| ZAR | AUD | reference | 0.0854 |
-| ZAR | BRL | reference | 0.3215 |
-| ZAR | BWP | reference | 0.8285 |
-| ZAR | CAD | reference | 0.0844 |
-| ZAR | CHF | reference | 0.0499 |
-| ZAR | CNY | reference | 0.4005 |
-| ZAR | DKK | reference | 0.4035 |
-| ZAR | HKD | reference | 0.4712 |
-| ZAR | ILS | reference | 0.1853 |
-| ZAR | INR | reference | 5.7178 |
-| ZAR | JPY | reference | 9.4732 |
-| ZAR | KES | reference | 7.7995 |
-| ZAR | KRW | reference | 80.4463 |
-| ZAR | MWK | reference | 104.1542 |
-| ZAR | NOK | reference | 0.5607 |
+| EUR | ZAR | reference | 18.542 |
+| GBP | ZAR | reference | 22.1607 |
+| USD | ZAR | reference | 16.6415 |
+| ZAR | AUD | reference | 0.0853 |
+| ZAR | BRL | reference | 0.3213 |
+| ZAR | BWP | reference | 0.8277 |
+| ZAR | CAD | reference | 0.0841 |
+| ZAR | CHF | reference | 0.0497 |
+| ZAR | CNY | reference | 0.4003 |
+| ZAR | DKK | reference | 0.4031 |
+| ZAR | HKD | reference | 0.4715 |
+| ZAR | ILS | reference | 0.1873 |
+| ZAR | INR | reference | 5.7262 |
+| ZAR | JPY | reference | 9.4862 |
+| ZAR | KES | reference | 7.8058 |
+| ZAR | KRW | reference | 80.3446 |
+| ZAR | MWK | reference | 104.1979 |
+| ZAR | NOK | reference | 0.5581 |
 | ZAR | NZD | reference | 0.107 |
-| ZAR | SEK | reference | 0.5977 |
-| ZAR | THB | reference | 2.0281 |
-| ZAR | TWD | reference | 1.948 |
-| ZAR | ZMW | reference | 1.2126 |
+| ZAR | SEK | reference | 0.5952 |
+| ZAR | THB | reference | 2.029 |
+| ZAR | TWD | reference | 1.955 |
+| ZAR | ZMW | reference | 1.2161 |
 
 </details>
 
@@ -238,6 +238,7 @@ The South African Reserve Bank publishes daily weighted-average exchange rates f
 
 - Publisher's own page: [Selected historical exchange rates](https://www.resbank.co.za/en/home/what-we-do/statistics/key-statistics/selected-historical-rates) · [www.resbank.co.za](https://www.resbank.co.za)
 - Publication: every business day; the exact schedule, freshness status and any current delay are on the [South African Reserve Bank rates page](https://allratestoday.com/central-bank-rates-api/sarb/)
+- In the API: usually by **10:15 UTC** (measured over the last 11 publications). Schedule a sync at or after that time and retry hourly until `rate_date` moves; every response carries the same figure as `available_by_utc` — see [when to poll](https://allratestoday.com/docs/#when-to-poll)
 - Values are stored unmodified, with the publisher's own `rate_date` on every row — see the [methodology](https://allratestoday.com/official-rates-methodology/)
 
 ## 🧭 Reading the numbers
