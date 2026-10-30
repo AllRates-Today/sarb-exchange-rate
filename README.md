@@ -24,56 +24,41 @@
 
 Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
-## ⚡ Try it without a key
-
-The latest South African Reserve Bank table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
-
-```bash
-curl "https://allratestoday.com/api/open/central-bank/sarb?source=USD&target=ZAR"
-```
-
-```js
-const r = await fetch('https://allratestoday.com/api/open/central-bank/sarb').then((x) => x.json());
-console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
-```
-
-The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and is free to use with a visible, followable link where the rates are shown: `<a href="https://allratestoday.com">Exchange rates by AllRatesToday</a>` (terms: <https://allratestoday.com/terms/#attribution>). The client below uses the keyed API, which adds point-in-time tables and history; with a key the link is appreciated, not required.
-
 ## 📈 Latest published table
 
 [![Latest South African Reserve Bank table](https://allratestoday.com/api/open/central-bank/sarb/table.svg)](https://allratestoday.com/central-bank-rates-api/sarb/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-29 by South African Reserve Bank — 23 rates. Updated 2026-10-29.</summary>
+<summary>Table as text: published 2026-10-30 by South African Reserve Bank — 23 rates. Updated 2026-10-30.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.542 |
-| GBP | ZAR | reference | 22.1607 |
-| USD | ZAR | reference | 16.6415 |
-| ZAR | AUD | reference | 0.0853 |
-| ZAR | BRL | reference | 0.3213 |
-| ZAR | BWP | reference | 0.8277 |
-| ZAR | CAD | reference | 0.0841 |
-| ZAR | CHF | reference | 0.0497 |
-| ZAR | CNY | reference | 0.4003 |
-| ZAR | DKK | reference | 0.4031 |
-| ZAR | HKD | reference | 0.4715 |
-| ZAR | ILS | reference | 0.1873 |
-| ZAR | INR | reference | 5.7262 |
-| ZAR | JPY | reference | 9.4862 |
-| ZAR | KES | reference | 7.8058 |
-| ZAR | KRW | reference | 80.3446 |
-| ZAR | MWK | reference | 104.1979 |
-| ZAR | NOK | reference | 0.5581 |
-| ZAR | NZD | reference | 0.107 |
-| ZAR | SEK | reference | 0.5952 |
-| ZAR | THB | reference | 2.029 |
-| ZAR | TWD | reference | 1.955 |
-| ZAR | ZMW | reference | 1.2161 |
+| EUR | ZAR | reference | 18.6417 |
+| GBP | ZAR | reference | 22.3293 |
+| USD | ZAR | reference | 16.6444 |
+| ZAR | AUD | reference | 0.0855 |
+| ZAR | BRL | reference | 0.3235 |
+| ZAR | BWP | reference | 0.8276 |
+| ZAR | CAD | reference | 0.0839 |
+| ZAR | CHF | reference | 0.0493 |
+| ZAR | CNY | reference | 0.3999 |
+| ZAR | DKK | reference | 0.4009 |
+| ZAR | HKD | reference | 0.4713 |
+| ZAR | ILS | reference | 0.1875 |
+| ZAR | INR | reference | 5.7109 |
+| ZAR | JPY | reference | 9.444 |
+| ZAR | KES | reference | 7.8104 |
+| ZAR | KRW | reference | 80.1282 |
+| ZAR | MWK | reference | 104.1798 |
+| ZAR | NOK | reference | 0.553 |
+| ZAR | NZD | reference | 0.1064 |
+| ZAR | SEK | reference | 0.5898 |
+| ZAR | THB | reference | 2.0235 |
+| ZAR | TWD | reference | 1.9582 |
+| ZAR | ZMW | reference | 1.2115 |
 
 </details>
 
