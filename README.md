@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-06 by South African Reserve Bank — 23 rates. Updated 2026-11-06.</summary>
+<summary>Table as text: published 2026-11-09 by South African Reserve Bank — 23 rates. Updated 2026-11-09.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.4581 |
-| GBP | ZAR | reference | 22.1112 |
-| USD | ZAR | reference | 16.504 |
-| ZAR | AUD | reference | 0.0882 |
-| ZAR | BRL | reference | 0.3335 |
-| ZAR | BWP | reference | 0.8693 |
-| ZAR | CAD | reference | 0.0852 |
-| ZAR | CHF | reference | 0.0495 |
-| ZAR | CNY | reference | 0.4042 |
-| ZAR | DKK | reference | 0.4049 |
-| ZAR | HKD | reference | 0.475 |
-| ZAR | ILS | reference | 0.1946 |
-| ZAR | INR | reference | 5.692 |
-| ZAR | JPY | reference | 9.5628 |
-| ZAR | KES | reference | 7.8739 |
-| ZAR | KRW | reference | 82.105 |
-| ZAR | MWK | reference | 105.0655 |
-| ZAR | NOK | reference | 0.5677 |
-| ZAR | NZD | reference | 0.1092 |
-| ZAR | SEK | reference | 0.5975 |
-| ZAR | THB | reference | 2.0325 |
-| ZAR | TWD | reference | 1.9896 |
-| ZAR | ZMW | reference | 1.2307 |
+| EUR | ZAR | reference | 18.4379 |
+| GBP | ZAR | reference | 22.1039 |
+| USD | ZAR | reference | 16.4838 |
+| ZAR | AUD | reference | 0.088 |
+| ZAR | BRL | reference | 0.3342 |
+| ZAR | BWP | reference | 0.8322 |
+| ZAR | CAD | reference | 0.0855 |
+| ZAR | CHF | reference | 0.0496 |
+| ZAR | CNY | reference | 0.4049 |
+| ZAR | DKK | reference | 0.4054 |
+| ZAR | HKD | reference | 0.4757 |
+| ZAR | ILS | reference | 0.1927 |
+| ZAR | INR | reference | 5.7038 |
+| ZAR | JPY | reference | 9.5831 |
+| ZAR | KES | reference | 7.8835 |
+| ZAR | KRW | reference | 81.9019 |
+| ZAR | MWK | reference | 105.1951 |
+| ZAR | NOK | reference | 0.572 |
+| ZAR | NZD | reference | 0.1084 |
+| ZAR | SEK | reference | 0.5972 |
+| ZAR | THB | reference | 2.0344 |
+| ZAR | TWD | reference | 1.9907 |
+| ZAR | ZMW | reference | 1.2346 |
 
 </details>
 
