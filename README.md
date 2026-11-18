@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-17 by South African Reserve Bank — 23 rates. Updated 2026-11-17.</summary>
+<summary>Table as text: published 2026-11-18 by South African Reserve Bank — 23 rates. Updated 2026-11-18.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.647 |
-| GBP | ZAR | reference | 22.3646 |
-| USD | ZAR | reference | 16.948 |
-| ZAR | AUD | reference | 0.0876 |
-| ZAR | BRL | reference | 0.341 |
-| ZAR | BWP | reference | 0.8235 |
-| ZAR | CAD | reference | 0.0844 |
-| ZAR | CHF | reference | 0.0495 |
-| ZAR | CNY | reference | 0.3933 |
-| ZAR | DKK | reference | 0.4009 |
-| ZAR | HKD | reference | 0.4629 |
-| ZAR | ILS | reference | 0.1916 |
-| ZAR | INR | reference | 5.5147 |
-| ZAR | JPY | reference | 9.3946 |
-| ZAR | KES | reference | 7.6794 |
-| ZAR | KRW | reference | 78.9091 |
-| ZAR | MWK | reference | 102.3137 |
-| ZAR | NOK | reference | 0.5696 |
-| ZAR | NZD | reference | 0.1073 |
+| EUR | ZAR | reference | 18.7209 |
+| GBP | ZAR | reference | 22.4674 |
+| USD | ZAR | reference | 17.0718 |
+| ZAR | AUD | reference | 0.0872 |
+| ZAR | BRL | reference | 0.3385 |
+| ZAR | BWP | reference | 0.8215 |
+| ZAR | CAD | reference | 0.0839 |
+| ZAR | CHF | reference | 0.0493 |
+| ZAR | CNY | reference | 0.3904 |
+| ZAR | DKK | reference | 0.3993 |
+| ZAR | HKD | reference | 0.4596 |
+| ZAR | ILS | reference | 0.1906 |
+| ZAR | INR | reference | 5.4786 |
+| ZAR | JPY | reference | 9.3297 |
+| ZAR | KES | reference | 7.6178 |
+| ZAR | KRW | reference | 77.9519 |
+| ZAR | MWK | reference | 101.5715 |
+| ZAR | NOK | reference | 0.5675 |
+| ZAR | NZD | reference | 0.1068 |
 | ZAR | SEK | reference | 0.5955 |
-| ZAR | THB | reference | 1.9955 |
-| ZAR | TWD | reference | 1.9431 |
-| ZAR | ZMW | reference | 1.2093 |
+| ZAR | THB | reference | 1.989 |
+| ZAR | TWD | reference | 1.9298 |
+| ZAR | ZMW | reference | 1.2029 |
 
 </details>
 
