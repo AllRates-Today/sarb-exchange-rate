@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-18 by South African Reserve Bank — 23 rates. Updated 2026-11-18.</summary>
+<summary>Table as text: published 2026-11-19 by South African Reserve Bank — 23 rates. Updated 2026-11-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 18.7209 |
-| GBP | ZAR | reference | 22.4674 |
-| USD | ZAR | reference | 17.0718 |
-| ZAR | AUD | reference | 0.0872 |
-| ZAR | BRL | reference | 0.3385 |
-| ZAR | BWP | reference | 0.8215 |
-| ZAR | CAD | reference | 0.0839 |
-| ZAR | CHF | reference | 0.0493 |
-| ZAR | CNY | reference | 0.3904 |
-| ZAR | DKK | reference | 0.3993 |
-| ZAR | HKD | reference | 0.4596 |
-| ZAR | ILS | reference | 0.1906 |
-| ZAR | INR | reference | 5.4786 |
-| ZAR | JPY | reference | 9.3297 |
-| ZAR | KES | reference | 7.6178 |
-| ZAR | KRW | reference | 77.9519 |
-| ZAR | MWK | reference | 101.5715 |
-| ZAR | NOK | reference | 0.5675 |
-| ZAR | NZD | reference | 0.1068 |
-| ZAR | SEK | reference | 0.5955 |
-| ZAR | THB | reference | 1.989 |
-| ZAR | TWD | reference | 1.9298 |
-| ZAR | ZMW | reference | 1.2029 |
+| EUR | ZAR | reference | 18.9553 |
+| GBP | ZAR | reference | 22.6924 |
+| USD | ZAR | reference | 17.2532 |
+| ZAR | AUD | reference | 0.0865 |
+| ZAR | BRL | reference | 0.3409 |
+| ZAR | BWP | reference | 0.8175 |
+| ZAR | CAD | reference | 0.083 |
+| ZAR | CHF | reference | 0.0488 |
+| ZAR | CNY | reference | 0.3863 |
+| ZAR | DKK | reference | 0.3944 |
+| ZAR | HKD | reference | 0.4547 |
+| ZAR | ILS | reference | 0.1892 |
+| ZAR | INR | reference | 5.4029 |
+| ZAR | JPY | reference | 9.2609 |
+| ZAR | KES | reference | 7.5377 |
+| ZAR | KRW | reference | 77.0881 |
+| ZAR | MWK | reference | 100.5034 |
+| ZAR | NOK | reference | 0.563 |
+| ZAR | NZD | reference | 0.1052 |
+| ZAR | SEK | reference | 0.5887 |
+| ZAR | THB | reference | 1.9651 |
+| ZAR | TWD | reference | 1.909 |
+| ZAR | ZMW | reference | 1.1911 |
 
 </details>
 
