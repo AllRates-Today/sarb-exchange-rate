@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-20 by South African Reserve Bank — 23 rates. Updated 2026-11-20.</summary>
+<summary>Table as text: published 2026-11-23 by South African Reserve Bank — 23 rates. Updated 2026-11-23.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 19.1471 |
-| GBP | ZAR | reference | 22.872 |
-| USD | ZAR | reference | 17.4429 |
-| ZAR | AUD | reference | 0.0859 |
-| ZAR | BRL | reference | 0.3399 |
-| ZAR | BWP | reference | 0.8132 |
+| EUR | ZAR | reference | 19.1812 |
+| GBP | ZAR | reference | 22.9046 |
+| USD | ZAR | reference | 17.4478 |
+| ZAR | AUD | reference | 0.0862 |
+| ZAR | BRL | reference | 0.341 |
+| ZAR | BWP | reference | 0.813 |
 | ZAR | CAD | reference | 0.0821 |
-| ZAR | CHF | reference | 0.0483 |
-| ZAR | CNY | reference | 0.3826 |
-| ZAR | DKK | reference | 0.3904 |
-| ZAR | HKD | reference | 0.4495 |
-| ZAR | ILS | reference | 0.1906 |
-| ZAR | INR | reference | 5.3239 |
-| ZAR | JPY | reference | 9.12 |
-| ZAR | KES | reference | 7.4558 |
-| ZAR | KRW | reference | 76.5469 |
-| ZAR | MWK | reference | 99.4106 |
-| ZAR | NOK | reference | 0.5606 |
-| ZAR | NZD | reference | 0.1042 |
-| ZAR | SEK | reference | 0.5842 |
-| ZAR | THB | reference | 1.9443 |
-| ZAR | TWD | reference | 1.8907 |
-| ZAR | ZMW | reference | 1.1796 |
+| ZAR | CHF | reference | 0.048 |
+| ZAR | CNY | reference | 0.382 |
+| ZAR | DKK | reference | 0.3897 |
+| ZAR | HKD | reference | 0.4494 |
+| ZAR | ILS | reference | 0.1914 |
+| ZAR | INR | reference | 5.3225 |
+| ZAR | JPY | reference | 9.1186 |
+| ZAR | KES | reference | 7.4565 |
+| ZAR | KRW | reference | 77.0585 |
+| ZAR | MWK | reference | 99.3829 |
+| ZAR | NOK | reference | 0.5589 |
+| ZAR | NZD | reference | 0.1047 |
+| ZAR | SEK | reference | 0.5846 |
+| ZAR | THB | reference | 1.9504 |
+| ZAR | TWD | reference | 1.8844 |
+| ZAR | ZMW | reference | 1.1812 |
 
 </details>
 
