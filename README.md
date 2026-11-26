@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-25 by South African Reserve Bank — 23 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by South African Reserve Bank — 23 rates. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 19.2382 |
-| GBP | ZAR | reference | 22.9935 |
-| USD | ZAR | reference | 17.5852 |
-| ZAR | AUD | reference | 0.0865 |
-| ZAR | BRL | reference | 0.336 |
-| ZAR | BWP | reference | 0.8106 |
-| ZAR | CAD | reference | 0.0812 |
+| EUR | ZAR | reference | 19.2404 |
+| GBP | ZAR | reference | 22.9839 |
+| USD | ZAR | reference | 17.5343 |
+| ZAR | AUD | reference | 0.086 |
+| ZAR | BRL | reference | 0.332 |
+| ZAR | BWP | reference | 0.8113 |
+| ZAR | CAD | reference | 0.0811 |
 | ZAR | CHF | reference | 0.0475 |
-| ZAR | CNY | reference | 0.3795 |
+| ZAR | CNY | reference | 0.3798 |
 | ZAR | DKK | reference | 0.3885 |
-| ZAR | HKD | reference | 0.4457 |
-| ZAR | ILS | reference | 0.1911 |
-| ZAR | INR | reference | 5.247 |
-| ZAR | JPY | reference | 9.0653 |
-| ZAR | KES | reference | 7.4011 |
-| ZAR | KRW | reference | 76.408 |
-| ZAR | MWK | reference | 98.6062 |
-| ZAR | NOK | reference | 0.5611 |
-| ZAR | NZD | reference | 0.1042 |
-| ZAR | SEK | reference | 0.5845 |
-| ZAR | THB | reference | 1.9391 |
-| ZAR | TWD | reference | 1.8816 |
-| ZAR | ZMW | reference | 1.1777 |
+| ZAR | HKD | reference | 0.447 |
+| ZAR | ILS | reference | 0.1908 |
+| ZAR | INR | reference | 5.2752 |
+| ZAR | JPY | reference | 9.0762 |
+| ZAR | KES | reference | 7.4283 |
+| ZAR | KRW | reference | 76.6189 |
+| ZAR | MWK | reference | 98.8927 |
+| ZAR | NOK | reference | 0.559 |
+| ZAR | NZD | reference | 0.1041 |
+| ZAR | SEK | reference | 0.5838 |
+| ZAR | THB | reference | 1.9419 |
+| ZAR | TWD | reference | 1.8813 |
+| ZAR | ZMW | reference | 1.1877 |
 
 </details>
 
