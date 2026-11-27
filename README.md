@@ -32,33 +32,33 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by South African Reserve Bank — 23 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by South African Reserve Bank — 23 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | ZAR | reference | 19.2404 |
-| GBP | ZAR | reference | 22.9839 |
-| USD | ZAR | reference | 17.5343 |
-| ZAR | AUD | reference | 0.086 |
-| ZAR | BRL | reference | 0.332 |
-| ZAR | BWP | reference | 0.8113 |
-| ZAR | CAD | reference | 0.0811 |
-| ZAR | CHF | reference | 0.0475 |
-| ZAR | CNY | reference | 0.3798 |
-| ZAR | DKK | reference | 0.3885 |
-| ZAR | HKD | reference | 0.447 |
-| ZAR | ILS | reference | 0.1908 |
-| ZAR | INR | reference | 5.2752 |
-| ZAR | JPY | reference | 9.0762 |
-| ZAR | KES | reference | 7.4283 |
-| ZAR | KRW | reference | 76.6189 |
-| ZAR | MWK | reference | 98.8927 |
-| ZAR | NOK | reference | 0.559 |
-| ZAR | NZD | reference | 0.1041 |
-| ZAR | SEK | reference | 0.5838 |
-| ZAR | THB | reference | 1.9419 |
-| ZAR | TWD | reference | 1.8813 |
-| ZAR | ZMW | reference | 1.1877 |
+| EUR | ZAR | reference | 19.03 |
+| GBP | ZAR | reference | 22.7733 |
+| USD | ZAR | reference | 17.3544 |
+| ZAR | AUD | reference | 0.0864 |
+| ZAR | BRL | reference | 0.3257 |
+| ZAR | BWP | reference | 0.8156 |
+| ZAR | CAD | reference | 0.0821 |
+| ZAR | CHF | reference | 0.0481 |
+| ZAR | CNY | reference | 0.3834 |
+| ZAR | DKK | reference | 0.3927 |
+| ZAR | HKD | reference | 0.4512 |
+| ZAR | ILS | reference | 0.1899 |
+| ZAR | INR | reference | 5.3528 |
+| ZAR | JPY | reference | 9.185 |
+| ZAR | KES | reference | 7.5024 |
+| ZAR | KRW | reference | 76.8797 |
+| ZAR | MWK | reference | 99.9176 |
+| ZAR | NOK | reference | 0.5595 |
+| ZAR | NZD | reference | 0.105 |
+| ZAR | SEK | reference | 0.5877 |
+| ZAR | THB | reference | 1.9543 |
+| ZAR | TWD | reference | 1.8992 |
+| ZAR | ZMW | reference | 1.2029 |
 
 </details>
 
